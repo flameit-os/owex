@@ -56,6 +56,15 @@ sudo apt install owfs
 server: device = /dev/i2c-1
 ```
 
+## Pinout
+
+* https://opencircuits.com/images/a/a3/A_Guide_to_the_1WRJ45_Standard.pdf
+
+![FlameIT - Immersion Cooling 1-Wire Expander Module [FIT OWEX] - PINOUT description from schema](pinout-schema.png "FlameIT - Immersion Cooling 1-Wire Expander Module [FIT OWEX] - PINOUT description from schema")
+
+![FlameIT - Immersion Cooling 1-Wire Expander Module [FIT OWEX] - PINOUT](pinout.png "FlameIT - Immersion Cooling 1-Wire Expander Module [FIT OWEX] - PINOUT")
+
+
 
 ## Author
 
