@@ -64,7 +64,9 @@ server: device = /dev/i2c-1
 
 ![FlameIT - Immersion Cooling 1-Wire Expander Module [FIT OWEX] - PINOUT](pinout.png "FlameIT - Immersion Cooling 1-Wire Expander Module [FIT OWEX] - PINOUT")
 
+## 3D model - STEP file
 
+https://grabcad.com/library/flameit-1-wire-expander-module-1
 
 ## Author
 
