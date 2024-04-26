@@ -89,7 +89,7 @@ server: device = /dev/i2c-1
 
 ## 3D model - STEP file
 
-[GRABCAD.COM - FlameIT - Immersion Cooling - 1-Wire Expander Module STEP/3D model](https://grabcad.com/library/flameit-1-wire-expander-module-1)
+[GRABCAD.COM - FlameIT - Immersion Cooling - 1-Wire Expander Module STEP/3D model](https://grabcad.com/library/fit-owex-1-wire-expander-module-flameit-immersion-cooling-1)
 
 ## Author
 
